@@ -1,0 +1,6 @@
+PyYAML
+robotframework
+robotframework-imagehorizonlibrary
+robotframework-screencaplibrary
+robotframework-seleniumlibrary
+robotframework-sshlibrary
